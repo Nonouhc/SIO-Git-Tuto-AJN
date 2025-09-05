@@ -25,37 +25,37 @@ La branche permet d’eviter de saturer la branche principale du projet et de pe
 5/ 
 Commandes Git de base
 
-git init
+-git init :
 Initialise un nouveau dépôt Git dans le dossier courant.
 
-git clone 
+-git clone :
 Clone un dépôt distant sur la machine.
 
-git status
+-git status :
 Affiche les fichiers modifiés, ajoutés ou non suivis.
 
-git add 
+-git add :
 Ajoute un fichier à la zone de préparation 
 
-git pull
+-git pull :
 Récupère et fusionne les modifications du dépôt distant.
 
-git fetch
+-git fetch :
 Récupère les modifications sans les fusionner.
 
-git push
+-git push :
 Envoie les commits locaux vers le dépôt distant.
 
-git branch
+-git branch :
 Permet de créer, répertorier, renommer et supprimer des branches
 
-git checkout [nom]
+-git checkout [nom]
 Change de branche.
 
-git merge 
+-git merge :
 Fusionne une branche dans la branche actuelle.
 
-git log
+-git log :
 Affiche l’historique des commits.
 
 
