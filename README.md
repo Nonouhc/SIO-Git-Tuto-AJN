@@ -21,6 +21,11 @@ La branche permet d’eviter de saturer la branche principale du projet
 4/ 
 
 
+6/  GitHub est un service d’hébergement en ligne . Il est aussi utilisé pour le développement collaboratif de logiciels, la gestion de versions, la collaboration sur des projets de programmation et le suivi des modifications de code source 
+
+Git lui stocke tous les fichiers en conservant la chronologie des codes source. Ce faisant, les développeurs sont capables de suivre les modifications dans les fichiers et les projets de développement de logiciels. 
+
+
 
 
 
