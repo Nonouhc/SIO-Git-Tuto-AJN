@@ -22,6 +22,40 @@ La branche permet d’eviter de saturer la branche principale du projet et de pe
 
 4/ faire shema !
 
+5/ 
+git init
+Initialise un nouveau dépôt Git dans le dossier courant.
+
+git clone 
+Clone un dépôt distant sur la machine.
+
+git status
+Affiche les fichiers modifiés, ajoutés ou non suivis.
+
+git add 
+Ajoute un fichier à la zone de préparation 
+
+git pull
+Récupère et fusionne les modifications du dépôt distant.
+
+git fetch
+Récupère les modifications sans les fusionner.
+
+git push
+Envoie les commits locaux vers le dépôt distant.
+
+git branch
+Permet de créer, répertorier, renommer et supprimer des branches
+
+git checkout [nom]
+Change de branche.
+
+git merge 
+Fusionne une branche dans la branche actuelle.
+
+git log
+Affiche l’historique des commits.
+
 
 6/  GitHub est un service d’hébergement en ligne . Il est aussi utilisé pour le développement collaboratif de logiciels, la gestion de versions, la collaboration sur des projets de programmation et le suivi des modifications de code source 
 
