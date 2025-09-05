@@ -6,7 +6,7 @@
 Quelles sont les commandes Git de base ? (à tester en local ou via GitHub Desktop).
 6. Quelle est la différence entre Git et GitHub ?
 
-1/ l'utilite de git et github va etre de 
+1/ l'utilite de git et github va etre de pouvoir traviller avec le groupe 
 
 2/ Donc en entreprise cela permettrai de centraliser un projet et de le suivre son evolution tout en pouvant revenir sur les anciennes versions de meme qu en cours
 
