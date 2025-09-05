@@ -23,6 +23,8 @@ La branche permet d’eviter de saturer la branche principale du projet et de pe
 4/ faire shema !
 
 5/ 
+Commandes Git de base
+
 git init
 Initialise un nouveau dépôt Git dans le dossier courant.
 
