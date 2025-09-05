@@ -6,6 +6,8 @@
 Quelles sont les commandes Git de base ? (à tester en local ou via GitHub Desktop).
 6. Quelle est la différence entre Git et GitHub ?
 
+Pourquoi utiliser git hub utile ?
+
 1/ Github est une plateforme de développement collaborative, elle permet aux développeurs de déposer leurs code sources  et donc de travailler ensemble. C’est basé sur le cloud et ça utiliste une version de Git. Pourquoi l’utiliser car cela permet de travailler à plusieurs et donc plus efficacement mais aussi utiliser des codes sources d’autres développeurs.
 
 
@@ -16,7 +18,7 @@ Quelles sont les commandes Git de base ? (à tester en local ou via GitHub Deskt
 
 Le commit sont des etapes importantes dans la chronologie du projet ainsi il permet de capturer l’etat d un projet a un moment de l avance.
 
-La branche permet d’eviter de saturer la branche principale du projet 
+La branche permet d’eviter de saturer la branche principale du projet et de permettre de corriger des beug sur d autre version  et meme de tester de nouvelles idees en paralelle de la branche principal dpnc sans l affecte directement.  
 
 4/ 
 
