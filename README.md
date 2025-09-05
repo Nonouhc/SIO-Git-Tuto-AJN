@@ -14,13 +14,13 @@ Pourquoi utiliser git hub utile ?
 
 2/ En cours cela facilite la collaboration et l’entraide tout comme en entreprise une meilleure cohésion permet une plus grande efficacité et efficience. Et ce sans interference entre les collaborateurs, c'est à dire de centraliser un projet
 
-3/ il s’agit d’un lieu pouvant stocker du code des fichiers ou justement l historique de révesion de chaque fichier.
+3/  Le depot: il s’agit d’un lieu pouvant stocker du code des fichiers ou justement l historique de révesion de chaque fichier.
 
 Le commit sont des etapes importantes dans la chronologie du projet ainsi il permet de capturer l’etat d un projet a un moment de l avance.
 
 La branche permet d’eviter de saturer la branche principale du projet et de permettre de corriger des beug sur d autre version  et meme de tester de nouvelles idees en paralelle de la branche principal dpnc sans l affecte directement.  
 
-4/ 
+4/ faire shema !
 
 
 6/  GitHub est un service d’hébergement en ligne . Il est aussi utilisé pour le développement collaboratif de logiciels, la gestion de versions, la collaboration sur des projets de programmation et le suivi des modifications de code source 
